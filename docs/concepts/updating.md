@@ -51,7 +51,7 @@ You will be prompted to confirm the changes that will be made to your project.
 To manually update your project's dependencies, you can edit the
 `import_map.json` file in the root of your projects directory. Dependency
 versions are encoded into the URLs in this file. For example, here is how to
-update a project from Fresh 1.0.2 to 1.1.3, and update Preact to the latest
+update a project from Fresh 1.0.2 to 1.1.5, and update Preact to the latest
 version:
 
 ```diff
